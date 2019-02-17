@@ -21,6 +21,12 @@ https://code.visualstudio.com/
 
 ## Tools
 
+### Postman
+
+Postman is the only complete API development environment, for API developers, used by more than 5 million developers and 100000 companies worldwide.
+
+https://www.getpostman.com
+
 ### gitignore.io
 
 Create useful .gitignore files for your project by selecting from 468 Operating System, IDE, and Programming Language .gitignore templates.

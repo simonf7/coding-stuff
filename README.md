@@ -32,3 +32,9 @@ https://www.getpostman.com
 Create useful .gitignore files for your project by selecting from 468 Operating System, IDE, and Programming Language .gitignore templates.
 
 https://gitignore.io
+
+### WordPress Plugin Boilerplate Generator
+
+As a WordPress Developer, I've been using the fantastic Tom McFarlin's WPPB foundation plugin (now maintained by Devin Vinson) as my started plugin.
+
+https://wppb.me/

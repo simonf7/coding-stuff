@@ -38,3 +38,10 @@ https://gitignore.io
 As a WordPress Developer, I've been using the fantastic Tom McFarlin's WPPB foundation plugin (now maintained by Devin Vinson) as my started plugin.
 
 https://wppb.me/
+
+### es-check
+
+Check JavaScript files ES version against a specified ES version.
+
+https://www.npmjs.com/package/es-check
+

@@ -45,3 +45,10 @@ Check JavaScript files ES version against a specified ES version.
 
 https://www.npmjs.com/package/es-check
 
+### PWA Builder
+
+Builds packages for distributing a Progressive Web App to the major app stores.
+
+https://www.pwabuilder.com/
+
+

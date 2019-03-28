@@ -18,6 +18,12 @@ Visual Studio Code is a source code editor developed by Microsoft for Windows, L
 
 https://code.visualstudio.com/
 
+### Angular Essentials
+
+Extension pack for VS Code containing tools for Angular development.
+
+https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials&wt.mc_id=devto-blog-jopapa
+(https://dev.to/azure/recommended-vs-code-extensions-for-angular-developers-c59)
 
 ## Tools
 

@@ -66,4 +66,5 @@ https://www.pwabuilder.com/
 ## Wiki
 
 Links to other pages with hints and solutions.
+
 https://github.com/simonf7/coding-stuff/wiki

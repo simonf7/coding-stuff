@@ -25,6 +25,12 @@ Extension pack for VS Code containing tools for Angular development.
 https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials&wt.mc_id=devto-blog-jopapa
 (https://dev.to/azure/recommended-vs-code-extensions-for-angular-developers-c59)
 
+### Collaborative Extensions
+
+List of handy extensions for VSCode
+
+https://dev.to/thegeoffstevens/how-to-collaborate-like-a-pro-in-vs-code-4iaj
+
 ### Sonarlint
 
 SonarLint is an IDE extension that helps you detect and fix quality issues as you write code. Like a spell checker, SonarLint squiggles flaws so that they can be fixed before committing code.

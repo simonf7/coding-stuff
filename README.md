@@ -69,6 +69,12 @@ Builds packages for distributing a Progressive Web App to the major app stores.
 
 https://www.pwabuilder.com/
 
+### RegEx101
+
+Online regex tester, debugger with highlighting for PHP, PCRE, Python, Golang and JavaScript.
+
+https://regex101.com/
+
 ## Wiki
 
 Links to other pages with hints and solutions.

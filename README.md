@@ -9,7 +9,6 @@ Laravel is a web application framework with expressive, elegant syntax. ... Lara
 
 https://www.laravel.com
 
-
 ## Editors (IDE)
 
 ### Visual Studio Code
@@ -75,7 +74,7 @@ Online regex tester, debugger with highlighting for PHP, PCRE, Python, Golang an
 
 https://regex101.com/
 
-## Wiki
+# Wiki
 
 Links to other pages with hints and solutions.
 

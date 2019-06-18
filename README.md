@@ -74,6 +74,12 @@ Online regex tester, debugger with highlighting for PHP, PCRE, Python, Golang an
 
 https://regex101.com/
 
+### PHP Live Regex
+
+Test PHP regular expressions live in your browser and generate sample code for preg_match, preg_match_all, preg_replace, preg_grep, and preg_split!
+
+https://www.phpliveregex.com/
+
 # Wiki
 
 Links to other pages with hints and solutions.
